@@ -10,7 +10,7 @@ Questions:
 *What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):*
 
-Software engineering is a methodical, structured, and measurable approach used for creating, running, and managing software (Pressman, 2005, p20). It gives tools to address complications in a software system and allows for the creation of dependable software systems that optimize productivity (Khurana, n.d). The process of creating a program in traditional programming is manual, requiring the involvement of a programmer. However, in the absence of logic programming, rules must be manually formulated or coded (Insightsoftware, 2023). 
+**Software engineering** is a methodical, structured, and measurable approach used for creating, running, and managing software (Pressman, 2005, p20). It gives tools to address complications in a software system and allows for the creation of dependable software systems that optimize productivity (Khurana, n.d). The process of creating a program in traditional programming is manual, requiring the involvement of a programmer. However, in the absence of logic programming, rules must be manually formulated or coded (Insightsoftware, 2023). 
 
 Studocu (n.d) list the following differences, Software engineering vs Traditional programming:
 
